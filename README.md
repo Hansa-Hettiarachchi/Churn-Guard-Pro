@@ -4,4 +4,6 @@ For credit card firms, client churn the phenomenon of customers stopping their c
 
 
 For more info please refer:
-https://github.com/Hansa-Hettiarachchi/Churn-Guard-Pro/blob/main/Data_Management_Paper_updated.pdf
+For more detailed documentation, please refer to the following PDF: 
+[Link to PDF](https://github.com/Hansa-Hettiarachchi/Churn-Guard-Pro/blob/main/Data_Management_Paper_updated.pdf)
+
